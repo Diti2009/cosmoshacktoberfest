@@ -1,3 +1,9 @@
+<!Doctype html>
+<html>
+  <head>
+    <title>Cosmos</title>
+  </head>
+<body>
 # Cosmos
 
 > [Join our Internship Program now](http://internship.opengenus.org/) | Try this cool [One Liner knowledge tool](https://iq.opengenus.org/one/)
@@ -6,7 +12,9 @@
 
 > The universe of algorithm and data structures
 
-**Cosmos** is your personal offline collection of every algorithm and data structure one will ever encounter and use in a lifetime. This provides solutions in various languages spanning `C`, `C++`, `Java`, `JavaScript`, `Swift`, `Python`, `Go` and others.
+**Cosmos** is your personal offline collection of every algorithm and data structure one will ever encounter and use in a lifetime. This provides solutions in various languages spanning `C`, `C++`, `Java`, `JavaScript`, `Swift`, `Python`, `Go` and others. It can help you create more codes easily.
+
+Join the website now!
 
 This work is maintained by a community of hundreds of people and is a _massive collaborative effort_ to bring the readily available coding knowledge **offline**.
 
@@ -67,7 +75,7 @@ The task of maintainers is to review pull requests, suggest further quality addi
 
 The success of our vision to bring knowledge offline depends on you. Even a small contribution helps. All forms of contributions are highly welcomed and valued.
 
-Currently, we have over **1000+ contributors** in Cosmos and **over 2K+ contributors** in sister projects of Cosmos.
+Currently, we have over **1000+ contributors** in Cosmos and **over 2K+ contributors** in sister projects of Cosmos. Ou contributers are growing every year. If you can help us too we also will be able to grow more!
 
 When you contribute, your name with a link (if available) is added to our [contributors list](https://github.com/OpenGenus/cosmos/wiki/contributors).
 
@@ -91,4 +99,4 @@ OpenGenus is sponsored by DigitalOcean and Discourse.
   </a>
   <br>
   <br><img src="https://github.com/OpenGenus/cosmos/assets/10634210/b6d7640b-9a98-45e2-a293-f11725cec6f9" width="150px">
-</p>
+</p> </body></html>
